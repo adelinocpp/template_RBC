@@ -1,0 +1,13 @@
+# latex files
+*.aux
+*.bbl
+*.blg
+*.idx
+*.lof
+*.log
+*.loq
+*.out
+*.pdf
+*.synctex.gz
+*.toc
+
