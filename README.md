@@ -1,6 +1,6 @@
 Template em Latex para a Revista Brasileira de Criminalística
 ==============================================================
-Visite e publique na [RBC]()https://revista.rbc.org.br/index.php/rbc)
+Visite e publique na [RBC](https://revista.rbc.org.br/index.php/rbc)
 
 ============
 
